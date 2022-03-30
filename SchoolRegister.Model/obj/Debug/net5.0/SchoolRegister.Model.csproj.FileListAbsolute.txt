@@ -1,0 +1,36 @@
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Model\bin\Debug\net5.0\SchoolRegister.Model.deps.json
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Model\bin\Debug\net5.0\SchoolRegister.Model.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Model\bin\Debug\net5.0\SchoolRegister.Model.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.csproj.AssemblyReference.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.AssemblyInfoInputs.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.AssemblyInfo.cs
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.csproj.CoreCompileInputs.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Model\obj\Debug\net5.0\refint\SchoolRegister.Model.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Model\obj\Debug\net5.0\ref\SchoolRegister.Model.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Model\bin\Debug\net5.0\SchoolRegister.Model.deps.json
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Model\bin\Debug\net5.0\SchoolRegister.Model.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Model\bin\Debug\net5.0\SchoolRegister.Model.pdb
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.AssemblyInfo.cs
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net5.0\refint\SchoolRegister.Model.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.pdb
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net5.0\ref\SchoolRegister.Model.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\bin\Debug\net5.0\SchoolRegister.Model.deps.json
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\bin\Debug\net5.0\SchoolRegister.Model.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\bin\Debug\net5.0\SchoolRegister.Model.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.csproj.AssemblyReference.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.AssemblyInfoInputs.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.AssemblyInfo.cs
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.csproj.CoreCompileInputs.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\obj\Debug\net5.0\refint\SchoolRegister.Model.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\obj\Debug\net5.0\ref\SchoolRegister.Model.dll

@@ -1,0 +1,57 @@
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Services.deps.json
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Services.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Services.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.DAL.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Model.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.ViewModels.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Model.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.DAL.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.ViewModels.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.csproj.AssemblyReference.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.AssemblyInfoInputs.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.AssemblyInfo.cs
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.csproj.CoreCompileInputs.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.csproj.CopyComplete
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\obj\Debug\net5.0\refint\SchoolRegister.Services.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.Services\obj\Debug\net5.0\ref\SchoolRegister.Services.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Services.deps.json
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Services.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Services.pdb
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.DAL.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Model.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.ViewModels.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Model.pdb
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.DAL.pdb
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.ViewModels.pdb
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.AssemblyInfo.cs
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.csproj.CopyComplete
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\obj\Debug\net5.0\refint\SchoolRegister.Services.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.pdb
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.Services\obj\Debug\net5.0\ref\SchoolRegister.Services.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Services.deps.json
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Services.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Services.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.DAL.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Model.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.ViewModels.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Model.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.DAL.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.ViewModels.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.csproj.AssemblyReference.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.AssemblyInfoInputs.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.AssemblyInfo.cs
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.csproj.CoreCompileInputs.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.csproj.CopyComplete
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Debug\net5.0\refint\SchoolRegister.Services.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Debug\net5.0\ref\SchoolRegister.Services.dll

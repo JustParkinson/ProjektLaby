@@ -1,0 +1,54 @@
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.deps.json
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.Model.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.Model.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.csproj.AssemblyReference.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.AssemblyInfoInputs.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.AssemblyInfo.cs
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.csproj.CoreCompileInputs.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.csproj.CopyComplete
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\obj\Debug\net5.0\refint\SchoolRegister.DAL.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\obj\Debug\net5.0\ref\SchoolRegister.DAL.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.runtimeconfig.json
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.runtimeconfig.dev.json
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.genruntimeconfig.cache
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.deps.json
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.runtimeconfig.json
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.runtimeconfig.dev.json
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.pdb
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.Model.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.Model.pdb
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.AssemblyInfo.cs
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.csproj.CopyComplete
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\net5.0\refint\SchoolRegister.DAL.dll
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.pdb
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.genruntimeconfig.cache
+C:\Users\Student\Documents\Nowak\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\net5.0\ref\SchoolRegister.DAL.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.deps.json
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.runtimeconfig.json
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.runtimeconfig.dev.json
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.Model.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.Model.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.csproj.AssemblyReference.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.AssemblyInfoInputs.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.AssemblyInfo.cs
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.csproj.CoreCompileInputs.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.csproj.CopyComplete
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\refint\SchoolRegister.DAL.dll
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.pdb
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.genruntimeconfig.cache
+E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\ref\SchoolRegister.DAL.dll
