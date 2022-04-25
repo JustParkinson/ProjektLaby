@@ -1,6 +1,7 @@
 using AutoMapper;
 using SchoolRegister.Model.DataModels;
 using SchoolRegister.ViewModels.VM;
+using System.Linq;
 
 namespace SchoolRegister.Services.Configuration.AutoMapperProfiles
 {
@@ -21,8 +22,11 @@ namespace SchoolRegister.Services.Configuration.AutoMapperProfiles
             CreateMap<Group, GroupVm>()
             .ForMember(dest => dest.Students, x => x.MapFrom(src => src.Students))
             .ForMember(dest => dest.Subjects, x => x.MapFrom(src => src.SubjectGroups.Select(s => s.Subject)));
+
             CreateMap<SubjectVm, AddOrUpdateSubjectVm>();
 
-        }
+            CreateMap<Teacher, TeacherVm>()
+                .ForMember(dest => dest.Subjects, x => x.MapFrom(src => src.Subjects));
+            }
     }
 }

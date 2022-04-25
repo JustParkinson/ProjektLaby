@@ -52,3 +52,21 @@ E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\ne
 E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.pdb
 E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.genruntimeconfig.cache
 E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.DAL\obj\Debug\net5.0\ref\SchoolRegister.DAL.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.deps.json
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.runtimeconfig.json
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.runtimeconfig.dev.json
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.DAL.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.Model.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\bin\Debug\net5.0\SchoolRegister.Model.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.csproj.AssemblyReference.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.AssemblyInfoInputs.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.AssemblyInfo.cs
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.csproj.CoreCompileInputs.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.csproj.CopyComplete
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\obj\Debug\net5.0\refint\SchoolRegister.DAL.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\obj\Debug\net5.0\SchoolRegister.DAL.genruntimeconfig.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.DAL\obj\Debug\net5.0\ref\SchoolRegister.DAL.dll

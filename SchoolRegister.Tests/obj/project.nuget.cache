@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZAul/UpIY++X6r1xnTt/ctt9ABRLnmyhsrma8gnQK9KD/dkmJA8Wrx+F0eJ1bTpxAvrdQj2hAtC/gwowfg7DSA==",
+  "dgSpecHash": "MLa1iwkwB+q5lCCpSV81+F9yen8A+7Oqa+t2EaFhUP1rxalZZ+lnfM2DFhko6UxbWb8x+c6IVy9ryrGXr/Ywng==",
   "success": true,
-  "projectFilePath": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.Tests\\SchoolRegister.Tests.csproj",
+  "projectFilePath": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.Tests\\SchoolRegister.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erago\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\erago\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

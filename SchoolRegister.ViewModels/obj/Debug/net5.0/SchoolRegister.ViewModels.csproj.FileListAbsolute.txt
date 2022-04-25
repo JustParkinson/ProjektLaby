@@ -43,3 +43,18 @@ E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.ViewModels\obj\D
 E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.ViewModels\obj\Debug\net5.0\refint\SchoolRegister.ViewModels.dll
 E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.ViewModels\obj\Debug\net5.0\SchoolRegister.ViewModels.pdb
 E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.ViewModels\obj\Debug\net5.0\ref\SchoolRegister.ViewModels.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\bin\Debug\net5.0\SchoolRegister.ViewModels.deps.json
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\bin\Debug\net5.0\SchoolRegister.ViewModels.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\bin\Debug\net5.0\SchoolRegister.ViewModels.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\bin\Debug\net5.0\SchoolRegister.Model.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\bin\Debug\net5.0\SchoolRegister.Model.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\obj\Debug\net5.0\SchoolRegister.ViewModels.csproj.AssemblyReference.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\obj\Debug\net5.0\SchoolRegister.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\obj\Debug\net5.0\SchoolRegister.ViewModels.AssemblyInfoInputs.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\obj\Debug\net5.0\SchoolRegister.ViewModels.AssemblyInfo.cs
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\obj\Debug\net5.0\SchoolRegister.ViewModels.csproj.CoreCompileInputs.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\obj\Debug\net5.0\SchoolRegister.ViewModels.csproj.CopyComplete
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\obj\Debug\net5.0\SchoolRegister.ViewModels.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\obj\Debug\net5.0\refint\SchoolRegister.ViewModels.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\obj\Debug\net5.0\SchoolRegister.ViewModels.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.ViewModels\obj\Debug\net5.0\ref\SchoolRegister.ViewModels.dll

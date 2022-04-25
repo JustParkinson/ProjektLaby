@@ -34,3 +34,15 @@ E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\obj\Debug\
 E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\obj\Debug\net5.0\refint\SchoolRegister.Model.dll
 E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.pdb
 E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Model\obj\Debug\net5.0\ref\SchoolRegister.Model.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Model\bin\Debug\net5.0\SchoolRegister.Model.deps.json
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Model\bin\Debug\net5.0\SchoolRegister.Model.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Model\bin\Debug\net5.0\SchoolRegister.Model.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.csproj.AssemblyReference.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.AssemblyInfoInputs.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.AssemblyInfo.cs
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.csproj.CoreCompileInputs.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Model\obj\Debug\net5.0\refint\SchoolRegister.Model.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Model\obj\Debug\net5.0\SchoolRegister.Model.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Model\obj\Debug\net5.0\ref\SchoolRegister.Model.dll

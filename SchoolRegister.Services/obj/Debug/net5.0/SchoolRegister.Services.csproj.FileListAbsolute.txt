@@ -55,3 +55,22 @@ E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Deb
 E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Debug\net5.0\refint\SchoolRegister.Services.dll
 E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.pdb
 E:\Studencki Bełkot\6sem\Aplikacje WWW\Lab\Lab1\SchoolRegister.Services\obj\Debug\net5.0\ref\SchoolRegister.Services.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Services.deps.json
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Services.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Services.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.DAL.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Model.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.ViewModels.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.Model.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.DAL.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\bin\Debug\net5.0\SchoolRegister.ViewModels.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.csproj.AssemblyReference.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.AssemblyInfoInputs.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.AssemblyInfo.cs
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.csproj.CoreCompileInputs.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.csproj.CopyComplete
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\obj\Debug\net5.0\refint\SchoolRegister.Services.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\obj\Debug\net5.0\SchoolRegister.Services.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Services\obj\Debug\net5.0\ref\SchoolRegister.Services.dll

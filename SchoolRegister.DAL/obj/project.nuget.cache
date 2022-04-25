@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pHksw/P0lU1DMZLVJ8+6Ez+WYuU8rTfJv9cp8wqR/E1KPiknX6xAntAQPPqyUIZJhb3E6byB/PltISas8C3U9Q==",
+  "dgSpecHash": "1wl5cxbMBaNB4xGPi/zaF06yr2cSnzWPHTUG9K5Q5ompww/MN7yXfA7cp9VNHtMZdPOtwZKozoojoShQM4CWYg==",
   "success": true,
-  "projectFilePath": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
+  "projectFilePath": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erago\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\erago\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

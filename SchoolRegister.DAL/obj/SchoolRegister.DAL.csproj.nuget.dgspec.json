@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {}
+    "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {}
   },
   "projects": {
-    "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {
+    "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
+        "projectUniqueName": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
         "projectName": "SchoolRegister.DAL",
-        "projectPath": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
+        "projectPath": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
         "packagesPath": "C:\\Users\\erago\\.nuget\\packages\\",
-        "outputPath": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.DAL\\obj\\",
+        "outputPath": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
-                "projectPath": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
+              "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+                "projectPath": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
               }
             }
           }
@@ -82,18 +82,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+    "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
+        "projectUniqueName": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
         "projectName": "SchoolRegister.Model",
-        "projectPath": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
+        "projectPath": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
         "packagesPath": "C:\\Users\\erago\\.nuget\\packages\\",
-        "outputPath": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.Model\\obj\\",
+        "outputPath": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

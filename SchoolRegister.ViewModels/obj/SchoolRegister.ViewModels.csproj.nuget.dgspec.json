@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj": {}
+    "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj": {}
   },
   "projects": {
-    "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+    "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
+        "projectUniqueName": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
         "projectName": "SchoolRegister.Model",
-        "projectPath": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
+        "projectPath": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
         "packagesPath": "C:\\Users\\erago\\.nuget\\packages\\",
-        "outputPath": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.Model\\obj\\",
+        "outputPath": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,18 +60,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj": {
+    "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
+        "projectUniqueName": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
         "projectName": "SchoolRegister.ViewModels",
-        "projectPath": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
+        "projectPath": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
         "packagesPath": "C:\\Users\\erago\\.nuget\\packages\\",
-        "outputPath": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.ViewModels\\obj\\",
+        "outputPath": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
-                "projectPath": "E:\\Studencki Bełkot\\6sem\\Aplikacje WWW\\Lab\\Lab1\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
+              "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+                "projectPath": "D:\\Dokumenty\\Repozytorium\\ProjektLaby\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
               }
             }
           }
@@ -118,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
