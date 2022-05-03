@@ -30,9 +30,9 @@ namespace SchoolRegister.Tests
             .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddTransient(typeof(ILogger), typeof(Logger<Startup>));
             services.AddTransient<ISubjectService, SubjectService>();
-            //services.AddTransient<IGradeService, GradeService>();
-            //services.AddTransient<IGroupService, GroupService>();
-            //services.AddTransient<IStudentService, StudentService>();
+            services.AddTransient<IGradeService, GradeService>();
+            services.AddTransient<IGroupService, GroupService>();
+            services.AddTransient<IStudentService, StudentService>();
             services.AddTransient<ITeacherService, TeacherService>();
             services.SeedData();
         }

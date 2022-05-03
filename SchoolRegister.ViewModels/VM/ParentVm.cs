@@ -4,7 +4,7 @@ namespace SchoolRegister.ViewModels.VM
 {
     public class ParentVm
     {
-        public string ParentName { get; set; }
+        public string UserName { get; set; }
         public virtual IList<StudentVm> Students { get; set; }
     }
 }

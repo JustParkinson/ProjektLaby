@@ -32,6 +32,7 @@ namespace SchoolRegister.Model.DataModels
             .ToDictionary(x => x.Key, x => x.Select(x => x.GradeValue).ToList());
 
         public Student() { }
+
     }
 
 
