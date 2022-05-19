@@ -132,15 +132,15 @@ namespace SchoolRegister.Services.ConcreteServices
                 if (group == null)
                     throw new ArgumentNullException($"There is no Group with this ID");
 
-                var student = group.Students.FirstOrDefault(x => x.Id == detachStudentToGroupVm.StudentId);
+                var student = DbContext.Users.OfType<Student>().FirstOrDefault(x => x.Id == detachStudentToGroupVm.StudentId);
                 if (student == null)
                     throw new ArgumentNullException($"There is no Student with this ID");
 
-                group.Students.Remove(student);
+                student.GroupId = null;
+                student.Group = null;
                 DbContext.SaveChanges();
                 var studentVm = Mapper.Map<StudentVm>(student);
                 return studentVm;
-
             }
             catch (Exception ex)
             {

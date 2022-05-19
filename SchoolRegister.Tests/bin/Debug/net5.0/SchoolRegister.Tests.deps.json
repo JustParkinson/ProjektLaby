@@ -15,6 +15,7 @@
           "SchoolRegister.Model": "1.0.0",
           "SchoolRegister.Services": "1.0.0",
           "Xunit.DependencyInjection": "7.1.0",
+          "Xunit.Priority": "1.1.6",
           "coverlet.collector": "3.1.0",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3"
@@ -1789,6 +1790,17 @@
           }
         }
       },
+      "Xunit.Priority/1.1.6": {
+        "dependencies": {
+          "xunit.extensibility.core": "2.4.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xunit.Priority.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.6.43363"
+          }
+        }
+      },
       "xunit.runner.visualstudio/2.4.3": {},
       "SchoolRegister.DAL/1.0.0": {
         "dependencies": {
@@ -2958,6 +2970,13 @@
       "sha512": "sha512-7e/1jqBpcb7frLkB6XDrHCGXAbKN4Rtdb88epYxCSRQuZDRW8UtTfdTEVpdTl8s4T56e07hOBVd4G0OdCxIY2A==",
       "path": "xunit.extensibility.execution/2.4.1",
       "hashPath": "xunit.extensibility.execution.2.4.1.nupkg.sha512"
+    },
+    "Xunit.Priority/1.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VF8yb6PHWb7ABkbEoWbesg0DsN3Pt7HQ2CGaIjyUh23jo3aCRm1zOAP/zQQh3B3Gi3K+5Xds8qs+SRUB2Hyr6Q==",
+      "path": "xunit.priority/1.1.6",
+      "hashPath": "xunit.priority.1.1.6.nupkg.sha512"
     },
     "xunit.runner.visualstudio/2.4.3": {
       "type": "package",

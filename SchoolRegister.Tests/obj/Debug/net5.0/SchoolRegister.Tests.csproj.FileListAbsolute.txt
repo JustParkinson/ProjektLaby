@@ -1,9 +1,4 @@
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
-D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\obj\Debug\net5.0\SchoolRegister.Tests.csproj.AssemblyReference.cache
-D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\obj\Debug\net5.0\SchoolRegister.Tests.GeneratedMSBuildEditorConfig.editorconfig
-D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\obj\Debug\net5.0\SchoolRegister.Tests.AssemblyInfoInputs.cache
-D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\obj\Debug\net5.0\SchoolRegister.Tests.AssemblyInfo.cs
-D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\obj\Debug\net5.0\SchoolRegister.Tests.csproj.CoreCompileInputs.cache
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\testhost.dll
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\testhost.exe
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -59,6 +54,7 @@ D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\xuni
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\Xunit.DependencyInjection.dll
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\xunit.core.dll
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\xunit.execution.dotnet.dll
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\Xunit.Priority.dll
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -144,6 +140,11 @@ D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\Scho
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\SchoolRegister.Model.pdb
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\SchoolRegister.DAL.pdb
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\bin\Debug\net5.0\SchoolRegister.ViewModels.pdb
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\obj\Debug\net5.0\SchoolRegister.Tests.csproj.AssemblyReference.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\obj\Debug\net5.0\SchoolRegister.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\obj\Debug\net5.0\SchoolRegister.Tests.AssemblyInfoInputs.cache
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\obj\Debug\net5.0\SchoolRegister.Tests.AssemblyInfo.cs
+D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\obj\Debug\net5.0\SchoolRegister.Tests.csproj.CoreCompileInputs.cache
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\obj\Debug\net5.0\SchoolRegister.Tests.csproj.CopyComplete
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\obj\Debug\net5.0\SchoolRegister.Tests.dll
 D:\Dokumenty\Repozytorium\ProjektLaby\SchoolRegister.Tests\obj\Debug\net5.0\refint\SchoolRegister.Tests.dll

@@ -1,6 +1,7 @@
 using AutoMapper;
 using SchoolRegister.Model.DataModels;
 using SchoolRegister.ViewModels.VM;
+using System;
 using System.Linq;
 
 namespace SchoolRegister.Services.Configuration.AutoMapperProfiles
@@ -17,7 +18,7 @@ namespace SchoolRegister.Services.Configuration.AutoMapperProfiles
                 .ForMember(dest => dest.Groups, x => x.MapFrom(src => src.SubjectGroups.Select(y => y.Group)));
 
             CreateMap<AddOrUpdateSubjectVm, Subject>();
-            
+
             CreateMap<SubjectVm, AddOrUpdateSubjectVm>();
 
             CreateMap<Group, GroupVm>()
@@ -29,7 +30,7 @@ namespace SchoolRegister.Services.Configuration.AutoMapperProfiles
             CreateMap<Teacher, TeacherVm>()
                 .ForMember(dest => dest.Subjects, x => x.MapFrom(src => src.Subjects));
             CreateMap<Student, StudentVm>()
-                .ForMember(dest => dest.Grades, x=> x.MapFrom(x => x.Grades));            CreateMap<Grade, GradeVm>();
+                .ForMember(dest => dest.Grades, x => x.MapFrom(x => x.Grades)); CreateMap<Grade, GradeVm>();
 
             CreateMap<Grade, GradeVm>();
 
@@ -41,8 +42,22 @@ namespace SchoolRegister.Services.Configuration.AutoMapperProfiles
 
             CreateMap<Grade, AddGradeToStudentVm>();
 
-            CreateMap<Parent,ParentVm>()
-                .ForMember(dest => dest.Students, x=> x.MapFrom(src => src.Students));
-        }    
+            CreateMap<Parent, ParentVm>()
+                .ForMember(dest => dest.Students, x => x.MapFrom(src => src.Students));
+
+            CreateMap<RegisterNewUserVm, User>()
+                .ForMember(dest => dest.UserName, y => y.MapFrom(src => src.Email))
+                .ForMember(dest => dest.RegistrationDate, y => y.MapFrom(src => DateTime.Now));
+            CreateMap<RegisterNewUserVm, Parent>()
+                .ForMember(dest => dest.UserName, y => y.MapFrom(src => src.Email))
+                .ForMember(dest => dest.RegistrationDate, y => y.MapFrom(src => DateTime.Now));
+            CreateMap<RegisterNewUserVm, Student>()
+                .ForMember(dest => dest.UserName, y => y.MapFrom(src => src.Email))
+                .ForMember(dest => dest.RegistrationDate, y => y.MapFrom(src => DateTime.Now));
+            CreateMap<RegisterNewUserVm, Teacher>()
+                .ForMember(dest => dest.UserName, y => y.MapFrom(src => src.Email))
+                .ForMember(dest => dest.RegistrationDate, y => y.MapFrom(src => DateTime.Now))
+                .ForMember(dest => dest.Title, y => y.MapFrom(src => src.TeacherTitles));
+        }
     }
 }

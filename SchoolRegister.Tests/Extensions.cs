@@ -40,7 +40,7 @@ namespace SchoolRegister.Tests
             {
                 Id = 4,
                 Name = "Admin",
-                RoleValue = RoleValue.Administrator
+                RoleValue = RoleValue.Admin
             };
             await roleManager.CreateAsync(adminRole);
             // Groups

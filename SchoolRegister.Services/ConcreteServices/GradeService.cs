@@ -51,7 +51,7 @@ namespace SchoolRegister.Services.ConcreteServices
                 var studentEntity = DbContext.Users.OfType<Student>().FirstOrDefault(x=>x.Id == getGradeVm.StudentId);
                 if( studentEntity == null)
                     throw new ArgumentException("There is no student with this ID");
-                var gradeEntities = DbContext.Grades.AsQueryable().Where(x=>x.StudentId == getGradeVm.StudentId);
+                var gradeEntities = DbContext.Grades.AsQueryable().Where(x => x.StudentId == getGradeVm.StudentId).ToList();
                 var gradeEntitiesVm = Mapper.Map<IList<GradeVm>>(gradeEntities);
                 var gradeReport = new GradeReportVm()
                 {
